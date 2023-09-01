@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS SUSERS (
+    USER_ID int,
+    USER_GUID varchar(255),
+    USER_NAME varchar(255)
+);
